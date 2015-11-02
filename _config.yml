@@ -1,2 +1,5 @@
 name: Recovering Couples Anonymous Deutschland
 markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - jemoji
